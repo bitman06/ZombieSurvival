@@ -1,0 +1,12 @@
+
+# Build directory
+build/
+
+# Compiled binaries
+*.exe
+*.dll
+*.o
+*.a
+
+# IDE temporary files
+.vs/
